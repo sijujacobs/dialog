@@ -1,0 +1,8 @@
+:host {
+  display: block;
+}
+
+.my-tabs-container{
+  border: 1px solid red;
+  padding: 10px;
+}
